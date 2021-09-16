@@ -1,0 +1,46 @@
+{
+  "todos": [
+    {
+      "UserId": 1,
+      "Id": 1,
+      "Title": "selected either the",
+      "Completed": false
+    },
+    {
+      "UserId": 1,
+      "Id": 2,
+      "Title": "Who will be easy for those services",
+      "Completed": false
+    },
+    {
+      "UserId": 1,
+      "Id": 3,
+      "Title": "I fly less",
+      "Completed": false
+    },
+    {
+      "UserId": 1,
+      "Id": 4,
+      "Title": "and on time",
+      "Completed": true
+    },
+    {
+      "UserId": 1,
+      "Id": 5,
+      "Title": "an intense experience because they provide the resilience and the like",
+      "Completed": false
+    },
+    {
+      "UserId": 1,
+      "Id": 6,
+      "Title": "any reason that some pleasure for everyone",
+      "Completed": false
+    }
+  ],
+  "users": [
+    {
+      "username": "himani",
+      "password": "1234"
+    }
+  ]
+}
