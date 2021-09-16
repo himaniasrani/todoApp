@@ -80,7 +80,7 @@ class Login extends Component {
                         {context => (
                             <div className="App">
                             <div className="loginDiv">
-                                <h2>Login</h2>
+                                <h2>Login Portal</h2>
                                 <pre className="login-label">Username </pre>
                                 <input type="text" value={this.state.username} onChange={this.updateUsername}></input>
                                 <br></br>
